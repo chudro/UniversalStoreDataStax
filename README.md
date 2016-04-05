@@ -345,6 +345,23 @@ https://github.com/jeromatron/graph-resources
 Gremlin console:
 http://tinkerpop.apache.org/docs/3.1.1-SNAPSHOT/tutorials/the-gremlin-console/
 
+...and more:
+
+Tinkerpop resources
+•  https://github.com/tinkerpop/gremlin/wiki/Basic-Graph-Traversals
+•  https://github.com/tinkerpop/gremlin/wiki/Gremlin-Steps
+•  https://github.com/tinkerpop/gremlin/wiki/Using-Gremlin-through-Java •  https://groups.google.com/forum/#!forum/gremlin-users
+•  https://github.com/tinkerpop/gremlin/wiki/SPARQL-vs.-Gremlin
+•  http://markorodriguez.com/2011/08/03/on-the-nature-of-pipes/
+•  http://sql2gremlin.com/
+•  http://gremlindocs.com/
+
+Groovy
+•  http://groovy.codehaus.org/Beginners+Tutorial •  http://groovy.codehaus.org/Collections
+
+Misc
+•  http://www.fromdev.com/2013/09/Gremlin-Example-Query-Snippets-Graph-DB.html
+•  http://markorodriguez.com/2011/06/15/graph-pattern-matching-with-gremlin-1-1/
 
 Hands On DSE Analytics
 --------------------
