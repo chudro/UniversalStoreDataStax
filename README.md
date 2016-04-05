@@ -40,7 +40,6 @@ password: C@ssandra
 - Simply add a new connection
 - Enter a name for your connection
 - Enter any of the ip's from above as a contact host
-- Profit. 
 - Download [DevCenter](https://academy.datastax.com/downloads)
 
 ![DevCenter How To](http://i.imgur.com/8zwzmDj.png)
